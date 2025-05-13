@@ -155,7 +155,7 @@ Clone this repo or copy the tool:
 bash
 Copy
 Edit
-git clone https://github.com/YourUsername/SocialDownX.git
+git clone https://github.com/codebyanmol/SocialDownX.git
 cd SocialDownX
 Run the tool:
 
